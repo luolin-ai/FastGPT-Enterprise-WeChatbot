@@ -4,7 +4,7 @@
 基于企业微信外部群的微信机器人，支持FASTgpt
 # 企业微信机器人使用教程：
 1.打开项目下载企业微信4.0.8.6027版本 下载：https://drive.weixin.qq.com/s?k=ANMA2gc2ACsWAjgBOT
-
+如需对接自己的知识库网站WX:gojiberrys
 
 2.配置，
 打开https://fastgpt.run/网站，点击创建ai
