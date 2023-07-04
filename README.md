@@ -7,7 +7,7 @@
 
 
 2.配置，
-打开https://aiwis.cn/网站，点击创建ai
+打开https://fastgpt.run/网站，点击创建ai
 ![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/49b7e76a-2908-4431-a9e1-26ceb1702ebb)
 进入网站点击新建应用，点击生成key
 ![微信截图_20230703101749](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/2d4fbf96-879d-4c71-aae8-04e152616829)
