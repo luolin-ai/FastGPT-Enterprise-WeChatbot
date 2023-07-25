@@ -14,8 +14,8 @@
 ![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/bb9e7f3c-0e91-4cd2-ab2f-13d35a92b3e3)
 ![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/a3987928-8271-4fd2-8b5f-c7af94360ecc)
 
-# 交流群
-![微信图片_20230722172539](https://github.com/luolin-ai/FastGPT-Enterprise-WeChatbot/assets/135555634/3d8a6333-c4e8-41b4-9059-8d9db793c771)
+# 扫码添加微信入交流群
+![微信图片_20230725124211](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/97fea432-3db1-4cd7-b735-76dfced7aab1)
 
 
 
