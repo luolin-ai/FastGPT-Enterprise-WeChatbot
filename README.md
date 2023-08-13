@@ -15,7 +15,7 @@
 ![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/a3987928-8271-4fd2-8b5f-c7af94360ecc)
 
 # 扫码加入交流群
-![4444444](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/289954f8-851f-4e74-9529-30729f07c5d0)
+![wxqun jpg](https://github.com/luolin-ai/FastGPT-Enterprise-WeChatbot/assets/135555634/a7b43983-bf71-4c29-b4e1-c0f15a039cf1)
 
 大家好！我非常高兴地告诉大家，我已经成功完成了我的代码项目！通过不懈的努力和团队合作，我们成功实现了一个更智能的企业微信聊天机器人。
 
