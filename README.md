@@ -3,16 +3,16 @@
 # Enterprise-WeChat-GPTbot
 基于企业微信外部群的微信机器人，支持FASTgpt
 # 企业微信机器人使用教程：
-1.打开项目下载企业微信4.0.8.6027版本 下载：https://drive.weixin.qq.com/s?k=ANMA2gc2ACsWAjgBOT
-如需对接自己的知识库网站WX:gojiberrys
+1.打开项目下载最新企业微信发布的的4.1.13.6002版本 下载：https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.13.6002.exe
+如需对接自己的知识库网站WX:aiwis99
 
 2.配置，
-打开https://fastgpt.run/网站，点击创建ai
+
+打开https://ai.aiwis.cn/网站，
 ![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/49b7e76a-2908-4431-a9e1-26ceb1702ebb)
 进入网站点击新建应用，点击生成key
 ![微信截图_20230703101749](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/2d4fbf96-879d-4c71-aae8-04e152616829)
 ![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/bb9e7f3c-0e91-4cd2-ab2f-13d35a92b3e3)
-![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/a3987928-8271-4fd2-8b5f-c7af94360ecc)
 
 # 扫码加入交流群
 ![wxqun jpg](https://github.com/luolin-ai/FastGPT-Enterprise-WeChatbot/assets/135555634/a7b43983-bf71-4c29-b4e1-c0f15a039cf1)
