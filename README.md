@@ -91,5 +91,6 @@ AI驱动的交互：利用AI技术（如AIWIS API）自动生成回复，支持�
 ![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/bb9e7f3c-0e91-4cd2-ab2f-13d35a92b3e3)
 
 # 扫码入交流群
-![wxqun jpg](https://github.com/luolin-ai/FastGPT-Enterprise-WeChatbot/assets/135555634/a7b43983-bf71-4c29-b4e1-c0f15a039cf1)
+![加入群聊二维码](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/366e266c-18d0-44dd-a972-4f7acdb23dfd)
+
 
