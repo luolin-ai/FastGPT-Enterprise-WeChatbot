@@ -1,5 +1,10 @@
 # Enterprise-WeChat-GPTbot
-基于最新企业微信发布的的4.1.13.6002版本外部群的微信机器人，支持FASTgpt
+基于12月5日企微发布最新企业微信发布的的4.1.13.6002版本外部群的微信机器人支持语音功能私聊，支持FASTgpt
+
+### 🌟 近期更新亮点：
+1.支持私聊语音功能 结合知识库定制专属领域企业微信语音数字分身 后期将会实现基于真人声音实时对话功能
+2.新版支持语音功能的是main-speech.exe这个文件
+3.重文本回复的是main.exe
 
 ### 🌟 更新亮点：
 * 
@@ -9,11 +14,22 @@
 * 用户界面改进：为了更好的用户体验，我们对机器人的界面进行了一些微调。
 * 性能提升：我们优化了代码，提高了机器人的响应速度和稳定性。
 
+
 重要的事情说三遍，
 运行脚本请退出梯子
 运行脚本请退出梯子
 运行脚本请退出梯子
 
+### 语音功能需要设置环境变量
+1. 1.打开电脑设置-----2.找到系统信息----3.系统信息中的高级设置 -----3.打开变量找到Path
+2. 将项目的ffmpeg文件永远保留 这是语音的关键
+3. 将这个路径添加进去 I:XX\XX\Enterprise-WeChat-GPTbot\ffmpeg\bin
+5. 注意如果的其他盘请把文件盘符放到对应路径中
+<div style="display: flex; justify-content: space-around;">
+    <img src="png/20231223065043.png" alt="Image 1 Description" style="width: 30%;" />
+    <img src="png/img.png" alt="Image 2 Description" style="width: 30%;" />
+    <img src="png/1703285345704.png" alt="Image 3 Description" style="width: 30%;" />
+</div>
 
 # 企业微信机器人使用教程：
 1.打开项目下载最新企业微信发布的的4.1.13.6002版本 下载：https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.13.6002.exe
@@ -44,6 +60,7 @@
 23. [ ] 保存 .env 文件的更改。
 24. [ ] 步骤 6：重启机器人
 25. [ ] 如果您的机器人正在运行，需要重启它以应用新的配置。
+
 
 ### 功能详细说明
 #### 智能回复
@@ -84,12 +101,13 @@ AI驱动的交互：利用AI技术（如AIWIS API）自动生成回复，支持�
 
 # 开始
 2.配置，
-打开 https://ai.aiwis.cn/ 网站，点击创建ai
-![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/49b7e76a-2908-4431-a9e1-26ceb1702ebb)
+打开 https://ai.fastgpt.in/ 网站，点击登录
+![img_1.png](png/img_1.png)
 进入网站点击新建应用，点击生成key
-![微信截图_20230703101749](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/2d4fbf96-879d-4c71-aae8-04e152616829)
-![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/bb9e7f3c-0e91-4cd2-ab2f-13d35a92b3e3)
+![img_2.png](png/img_2.png)
+部分网站
+![img_3.png](png/img_3.png)
 
 # 扫码入交流群
-![wxqun jpg](https://github.com/luolin-ai/FastGPT-Enterprise-WeChatbot/assets/135555634/a7b43983-bf71-4c29-b4e1-c0f15a039cf1)
+、![img_5.png](png/img_5.png)
 
