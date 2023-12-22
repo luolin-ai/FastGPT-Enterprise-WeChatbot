@@ -24,7 +24,7 @@
 1. 1.打开电脑设置-----2.找到系统信息----3.系统信息中的高级设置 -----3.打开变量找到Path
 2. 将项目的ffmpeg文件永远保留 这是语音的关键
 3. 将这个路径添加进去 I:XX\XX\Enterprise-WeChat-GPTbot\ffmpeg\bin
-5. 注意如果的其他盘请把文件盘符放到对应路径中
+注意如果的其他盘请把文件盘符放到对应路径中
 <div style="display: flex; justify-content: space-around;">
     <img src="png/20231223065043.png" alt="Image 1 Description" style="width: 30%;" />
     <img src="png/img.png" alt="Image 2 Description" style="width: 30%;" />
