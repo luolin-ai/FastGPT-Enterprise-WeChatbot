@@ -14,7 +14,7 @@
 * 用户界面改进：为了更好的用户体验，我们对机器人的界面进行了一些微调。
 * 性能提升：我们优化了代码，提高了机器人的响应速度和稳定性。
 
-# 🎥 新视频发布：情感与商业的融合 🎥
+# 🎥 新视频发布：情感与商业的融合 （详细视频教程）🎥
 
 [![情感与商业的融合](https://img.youtube.com/vi/5lk6WLmUk7Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=5lk6WLmUk7Y)
 
