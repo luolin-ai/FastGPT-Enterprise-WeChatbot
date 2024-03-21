@@ -130,4 +130,4 @@ AI驱动的交互：利用AI技术（如fastgpt API）自动生成回复，支�
 
 # 扫码入交流群
 
-![微信图片_20240307051253](https://github.com/luolin-ai/FastGPT-Enterprise-WeChatbot/assets/135555634/210a951c-b98d-4ae6-ae1c-40d6cb927605)
+![111bc5914e9b842038886f4d00bf62b.jpg](png%2F111bc5914e9b842038886f4d00bf62b.jpg)
