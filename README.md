@@ -1,7 +1,5 @@
-# Enterprise-WeChat-GPTbot V1.0.02
+# FastGPT-Enterprise-WeChatbot V1.0.02
 基于12月5日企微发布最新企业微信发布的的4.1.13.6002版本外部群的微信机器人支持语音功能私聊，支持FASTgpt
-
-
 
 
 ### 🌟 近期更新亮点：
@@ -10,7 +8,7 @@
 #添加或更新 USE_LOCAL_API 变量，线上设置为False本地True。
 本地部署fastgpt请配置USE_LOCAL_API本地True
 2024/05/08 新增兼容新版fastapi调用功能
-![img_3.png](img_3.png)
+![img_4.png](img_4.png)
 2024/05/08 新增上下数据关联持久化 保持数据库文件误删永久关联上下文管理
 新版语音版出现bug坐等修复
 
