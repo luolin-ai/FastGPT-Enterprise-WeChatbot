@@ -73,7 +73,7 @@
 1. [ ] 获取 AIWIS API 密钥和 APP ID 的步骤
 2. [ ] 为了使企业微信机器人助手能够与 AIWIS API 交互，您需要获取 API 密钥（AIWIS_KEY）和应用程序 ID（APP_ID）。请按照以下步骤操作：
 3. [ ] 
-4. [ ] 步骤 1：访问 AIWIS 网站
+4. [ ] 步骤 1：访问 fastgpt 网站
 5. [ ] 打开浏览器并访问 https://cloud.fastgpt.in。
 6. [ ] 步骤 2：登录或注册账号
 7. [ ] 如果您已有账号，请使用您的凭证登录。
@@ -136,7 +136,7 @@ AI驱动的交互：利用AI技术（如AIWIS API）自动生成回复，支持�
 
 # 开始
 2.配置，
-打开 https://ai.aiwis.cn/ 网站，点击创建ai
+打开 https://cloud.fastgpt.in 网站，点击创建ai
 ![img_1.png](png/img_1.png)
 进入网站点击新建应用，点击生成key
 ![img_2.png](png/img_2.png)
