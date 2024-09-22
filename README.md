@@ -119,8 +119,8 @@ TTS_MODEL=tts-1  # 或者 tts-1-hd
 ```
 
 # 扫码入交流群（备注来源）
-![微信群](https://github.com/user-attachments/assets/ad716ccf-210b-4dd4-899a-fbb83c7d9319)
-
+# 扫码入交流群（备注来源）
+![75a12c30815b6c0608ad6ee6fa3db6f](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/2a0e6fc9-0772-4a15-9e33-5e588ade3479)
 # 🎥 新视频发布：情感与商业的融合 （详细视频教程）🎥
 
 [![情感与商业的融合](https://img.youtube.com/vi/5lk6WLmUk7Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=5lk6WLmUk7Y)
