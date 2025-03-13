@@ -16,6 +16,22 @@
 
 fast建议使用本地模式
 ## 更新日志
+ NextFlow-APP V1.0.07-beta.1 更新说明
+ 即将预增
+https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/releases/edit/1.0.07-beta.1
+![image](https://github.com/user-attachments/assets/dec1f60d-34d2-45bd-a9c4-2a02fc616b4b)
+
+## 主要更新：
+- 修复无法发送签名图片
+- 修复返回为空的回复
+- 优化 [http://127.0.0.1:8001/docs](http://127.0.0.1:8001/docs) 文档
+- 修复部分 API 无法使用
+- 新增文件发送群组 API，也可私发文件
+
+-- 修复回复两次问题
+
+
+- 优化广告小尾巴格式
 
 ### 2024年8月31日
 - 新增文件发送功能
