@@ -19,7 +19,7 @@ fast建议使用本地模式
  NextFlow-APP V1.0.07-beta.1 
  更新说明
  即将预增
-https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/releases/edit/1.0.07-beta.1
+https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/releases/tag/1.0.07-beta.1
 ![image](https://github.com/user-attachments/assets/dec1f60d-34d2-45bd-a9c4-2a02fc616b4b)
 
 ## 主要更新：
