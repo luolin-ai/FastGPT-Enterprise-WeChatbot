@@ -15,6 +15,8 @@
 - [企业微信机器人使用教程](#企业微信机器人使用教程)
 
 fast建议使用本地模式
+
+
 ## 更新日志{2025/03/14}
  NextFlow-APP V1.0.07-beta.1 
  更新说明
@@ -66,6 +68,27 @@ https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/releases/tag/1.0.07-beta.1
 - **用户界面改进**：对界面进行了微调以提升用户体验。
 - **性能提升**：优化代码，提升机器人响应速度和稳定性。
 - **支持私聊语音功能**：结合知识库定制专属领域企业微信语音数字分身，未来计划实现基于真人声音的实时对话功能。
+## 赞助支持
+
+如果您觉得这个项目对您有帮助，欢迎打赏以支持我们的工作：
+
+您的赞助将用于：
+
+- **维护和更新**：确保项目持续更新和维护，修复Bug并引入新功能。
+- **服务器和基础设施**：支付服务器和相关基础设施的费用，确保Bot的高可用性和响应速度。
+- **社区支持**：创建和维护文档、教程以及用户支持，帮助更多人使用和贡献本项目。
+
+<div align="center">
+  <img src="https://github.com/luolin-ai/CozeBot-WxworkPro/raw/main/tu/106f2de5438c9c7cfd35e00a989b0cd.jpg" alt="赞助" width="300"/>
+</div>
+
+## 联系我们
+
+如需进一步交流和支持，欢迎扫描下方二维码添加微信进群：
+
+<div align="center">
+  <img src="https://github.com/luolin-ai/CozeBot-WxworkPro/raw/main/tu/wx.jpg" alt="微信" width="300"/>
+</div>
 
 ## 快速开始
 
