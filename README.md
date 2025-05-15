@@ -87,7 +87,7 @@ https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/releases/tag/1.0.07-beta.1
 如需进一步交流和支持，欢迎扫描下方二维码添加微信进群：
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a47df31b-12d0-495b-a37c-601a7185390e" alt="微信二维码" width="300"/>
+  <img src="https://github.com/user-attachments/assets/4dac94f7-c8d9-4045-8949-6a5abbf5defd" alt="微信二维码" width="300"/>
 </p>
 
 
